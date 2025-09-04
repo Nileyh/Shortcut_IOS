@@ -3,7 +3,7 @@
 
 Raccourci pour checker de l'info avec ChatGPT de maniere rapide et concise
 
-**URL du Shortcut**: https://www.icloud.com/shortcuts/d04bc6db05384be3a4ff3dfafa16d8bc
+**URL du Shortcut**: https://www.icloud.com/shortcuts/49b705974bce4911aa436831d074d659
 
 
 ## LE PROMPT
